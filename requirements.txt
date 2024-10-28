@@ -1,4 +1,4 @@
-tkinter
+tk
 pygame
 pandas
 numpy
