@@ -14,7 +14,7 @@ cd Memory-Game-in-Python
 ```
 pip install -r requirements.txt
 ```
-5. Run the game:
+4. Run the game:
 ```
 python main.py
 ```
