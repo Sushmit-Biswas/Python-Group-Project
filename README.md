@@ -26,8 +26,8 @@ python main.py
 [Memory-Game-Version-2.0](https://github.com/Sushmit-Biswas/Memory-Game-Version-2.0)
 
 ## Team Members
-1. Sushmit Biswas (BT2024038) - (Lead Developer & Designer)
-2. Santosh Reddy (BT2024012) - (Contributor, CSV Handling)
-3. Kabir Ahuja (BT2024004) - (Contributor, Game Logic)
-4. Aryan Malik (BT2024006) - (Contributor, UI Design)
+1. Sushmit Biswas (Lead Developer & Designer)
+2. Santosh Reddy (Contributor, CSV Handling)
+3. Kabir Ahuja (Contributor, Game Logic)
+4. Aryan Malik (Contributor, UI Design)
 
