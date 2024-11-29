@@ -1,7 +1,7 @@
 # Memory Game created in Python using Tkinter
 ![memory_game_title](https://github.com/user-attachments/assets/c7b86373-2c2d-4eb8-b63a-b63e9ce61bed)
 
-## How to Run the Project
+## How to Run the Project on Windows
 1. Clone the repository:
 ```
 git clone https://github.com/TechySushmit/Memory-Game-in-Python.git
